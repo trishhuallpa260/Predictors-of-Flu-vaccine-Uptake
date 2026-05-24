@@ -32,8 +32,9 @@ Our findings indicated that **age and income were the primary factors of vaccina
 ## Instructions
 
 ### How to Run the Notebook
-1. Open `fluproject.ipynb` in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook
-2. Run all cells in sequence to reproduce the analysis and visualizations
+1. Open the notebook directly in Google Colab: [**fluproject.ipynb**](https://colab.research.google.com/drive/1eDPdGksV-ItdsiheaaN8TbhysB0unk-f?usp=sharing)
+2. Alternatively, open `fluproject.ipynb` in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook
+3. Run all cells in sequence to reproduce the analysis and visualizations
 
 ### Required Python Libraries
 The following libraries are required to run this project:
